@@ -1,5 +1,5 @@
 # The Applications of Facial Recognition, Gesture Recognition and Motion Detection and Tracking
-This is my B.Tech Final Year project. The aim of this project is to reduce the number of input devices to one which is the webcam.
+ The aim of this project is to reduce the number of input devices to one which is the webcam.
 
 ### Disclaimer
 This project is not yet complete. Some modules are yet to be added and the added ones need refining. So use this if you like fixing and playing with broken or incomplete things. Also this is not a complete documentation.
